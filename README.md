@@ -31,7 +31,7 @@ The Vehicle Management System is a web platform designed to facilitate the buyin
 
 ******Demo******
 
-https://github.com/user-attachments/assets/a5971a66-a0e3-4909-a069-bd5519473c2e
+![home](https://github.com/user-attachments/assets/a5971a66-a0e3-4909-a069-bd5519473c2e)
 
 
 ****Deployment****
