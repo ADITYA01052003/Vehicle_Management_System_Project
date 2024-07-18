@@ -24,9 +24,10 @@ The Vehicle Management System is a web platform designed to facilitate the buyin
 
 *Client:* HTML, CSS, JavaScript
 
-Server: JAVA,MYSQL
+*Server:* JAVA,MYSQL
 
-Maps Integration: Google Maps API for geolocation features
+*Maps Integration:* Google Maps API for geolocation features
+
 
 ******Demo******
 
@@ -44,8 +45,8 @@ Start the server: 'npm start'
 
 Access the application at 'http://localhost:3000'
 
-Usage
-Buyer Perspective:
+**Usage**
+*Buyer Perspective:*
 
 -Register or log in to browse vehicles. Search for vehicles based on preferences.
 
@@ -53,7 +54,8 @@ Buyer Perspective:
 
 -Complete transactions directly with sellers.
 
-Seller Perspective:
+
+*Seller Perspective:*
 
 Register or log in to list vehicles for sale.
 
@@ -63,7 +65,9 @@ Manage listings and respond to buyer inquiries.
 
 Receive direct payments from buyers upon vehicle sale.
 
-Acknowledgements
+
+
+**Acknowledgements**
 1.Thank you to all contributors who have helped improve the Vehicle Management System.
 
 2.Inspired by the need for a convenient platform for buying and selling used vehicles.
