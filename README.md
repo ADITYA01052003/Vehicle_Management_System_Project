@@ -2,7 +2,10 @@
 
 The Vehicle Management System is a web platform designed to facilitate the buying and selling of used cars and bikes. Acting as a broker between buyers and sellers, it provides a seamless experience for customers to browse available vehicles, make purchases, or list their own vehicles for sale.
 
+
+
 **Features**
+
 Buyer and Seller Interaction: Connects potential buyers with sellers, enabling direct transactions between them.
 
 Vehicle Listings:Displays available used vehicles based on the customer's location or specified area of interest.
@@ -14,6 +17,8 @@ Search and Filters: Allows users to search for vehicles based on criteria such a
 Seller Listings: Enables sellers to create detailed listings with vehicle information, photos, and pricing.
 
 Geolocation Integration: Shows vehicles available nearby the customer's location or any specified area.
+
+
 
 ****Tech Stack****
 
