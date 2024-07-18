@@ -45,13 +45,13 @@ The Vehicle Management System is a web platform designed to facilitate the buyin
 ****Deployment****
 To run the Vehicle Management System locally:
 
-Clone the repository: git clone 'https://github.com/ADITYA01052003/Vehicle_Management_System_Project'
+Clone the repository:  git clone 'https://github.com/ADITYA01052003/Vehicle_Management_System_Project'
 
-Install dependencies: cd vehicle-management-system && npm install
+Install dependencies:  cd vehicle-management-system && npm install
 
 Set up environment variables for database connection and API keys.
 
-Start the server: 'npm start'
+Start the server:  'npm start'
 
 Access the application at 'http://localhost:3000'
 
@@ -68,17 +68,18 @@ Access the application at 'http://localhost:3000'
 
 *Seller Perspective:*
 
-Register or log in to list vehicles for sale.
+-Register or log in to list vehicles for sale.
 
-Provide vehicle details, photos, and pricing.
+-Provide vehicle details, photos, and pricing.
 
-Manage listings and respond to buyer inquiries.
+-Manage listings and respond to buyer inquiries.
 
-Receive direct payments from buyers upon vehicle sale.
+-Receive direct payments from buyers upon vehicle sale.
 
 
 
 **Acknowledgements**
+
 1.Thank you to all contributors who have helped improve the Vehicle Management System.
 
 2.Inspired by the need for a convenient platform for buying and selling used vehicles.
