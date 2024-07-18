@@ -22,7 +22,7 @@ The Vehicle Management System is a web platform designed to facilitate the buyin
 
 ****Tech Stack****
 
-**Client* HTML, CSS, JavaScript
+*Client:* HTML, CSS, JavaScript
 
 Server: JAVA,MYSQL
 
