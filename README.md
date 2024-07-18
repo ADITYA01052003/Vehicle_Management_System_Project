@@ -1,9 +1,8 @@
 # Vehicle_Management_System_Project
 
-**Vehicle_Management_System_Project**
 The Vehicle Management System is a web platform designed to facilitate the buying and selling of used cars and bikes. Acting as a broker between buyers and sellers, it provides a seamless experience for customers to browse available vehicles, make purchases, or list their own vehicles for sale.
 
-Features
+**Features**
 Buyer and Seller Interaction: Connects potential buyers with sellers, enabling direct transactions between them.
 
 Vehicle Listings:Displays available used vehicles based on the customer's location or specified area of interest.
@@ -16,15 +15,17 @@ Seller Listings: Enables sellers to create detailed listings with vehicle inform
 
 Geolocation Integration: Shows vehicles available nearby the customer's location or any specified area.
 
-Tech Stack
-Client: HTML, CSS, JavaScript
+****Tech Stack****
+
+**Client** HTML, CSS, JavaScript
 
 Server: JAVA,MYSQL
 
 Maps Integration: Google Maps API for geolocation features
 
 Demo
-Deployment
+
+****Deployment****
 To run the Vehicle Management System locally:
 
 Clone the repository: git clone 'https://github.com/ADITYA01052003/Vehicle_Management_System_Project'
