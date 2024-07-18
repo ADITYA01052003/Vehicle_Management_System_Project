@@ -7,23 +7,29 @@ The Vehicle Management System is a web platform designed to facilitate the buyin
 **Features**
 
 -Buyer and Seller Interaction: Connects potential buyers with sellers, enabling direct transactions between them.
+
 -Vehicle Listings:Displays available used vehicles based on the customer's location or specified area of interest.
+
 -User Authentication:Secure login and registration for both buyers and sellers.
+
 -Search and Filters: Allows users to search for vehicles based on criteria such as make, model, price range, etc.
+
 -Seller Listings: Enables sellers to create detailed listings with vehicle information, photos, and pricing.
+
 -Geolocation Integration: Shows vehicles available nearby the customer's location or any specified area.
 
 
 
 ****Tech Stack****
 
-**Client** HTML, CSS, JavaScript
+**Client* HTML, CSS, JavaScript
 
 Server: JAVA,MYSQL
 
 Maps Integration: Google Maps API for geolocation features
 
-Demo
+******Demo******
+
 
 ****Deployment****
 To run the Vehicle Management System locally:
