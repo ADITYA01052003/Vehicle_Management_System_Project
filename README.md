@@ -46,6 +46,7 @@ Start the server: 'npm start'
 Access the application at 'http://localhost:3000'
 
 **Usage**
+
 *Buyer Perspective:*
 
 -Register or log in to browse vehicles. Search for vehicles based on preferences.
