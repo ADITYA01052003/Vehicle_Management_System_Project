@@ -1,6 +1,6 @@
 # Vehicle_Management_System_Project
 
-##Vehicle_Management_System_Project##
+**Vehicle_Management_System_Project**
 The Vehicle Management System is a web platform designed to facilitate the buying and selling of used cars and bikes. Acting as a broker between buyers and sellers, it provides a seamless experience for customers to browse available vehicles, make purchases, or list their own vehicles for sale.
 
 Features
